@@ -1,7 +1,7 @@
 ## 环境依赖
 composer 依赖
 ```shell
-"overtrue/wechat": "~4.2.11"
+"overtrue/wechat": "~4.2.30"
 php 7.x
 ```
 
